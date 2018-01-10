@@ -1,0 +1,11 @@
+
+.general, .navbar, .navbar1, .navbar2
+{
+    border: 3px black solid;
+}
+
+li {
+    display: inline;
+
+
+}
